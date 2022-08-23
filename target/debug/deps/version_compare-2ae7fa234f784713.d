@@ -1,0 +1,12 @@
+/Users/mac/COMS/sdw/target/debug/deps/version_compare-2ae7fa234f784713.rmeta: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/Users/mac/COMS/sdw/target/debug/deps/libversion_compare-2ae7fa234f784713.rlib: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/Users/mac/COMS/sdw/target/debug/deps/version_compare-2ae7fa234f784713.d: /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs:
+/Users/mac/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs:
