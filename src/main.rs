@@ -3,7 +3,7 @@ mod drawing_window;
 use std::time::Duration;
 use rand::Rng;
 use drawing_window::DrawingWindow;
-use sdl2::{event::Event, keyboard::Keycode, sys::rand_r};
+use sdl2::{event::Event, keyboard::Keycode, EventPump};
 
 
 fn draw(window:&mut DrawingWindow){
@@ -20,18 +20,14 @@ fn draw(window:&mut DrawingWindow){
     }
 }
 
-
 pub fn main() {
 
-    let mut drawing_window = DrawingWindow::new_drawing_window(320, 240, false);
+    let mut drawing_window = DrawingWindow::new_drawing_window(320, 240, false).unwrap();
     let sdl_context = drawing_window.get_sdl_context();
-
     let mut event_pump = sdl_context.event_pump().unwrap();
-    let mut i = 0;
+
     'running: loop {
-        i = (i + 1) % 255;
         draw(&mut drawing_window);
-        drawing_window.render_frame();
         for event in event_pump.poll_iter() {
             match event {
                 Event::Quit {..} |
@@ -43,7 +39,7 @@ pub fn main() {
         }
         // The rest of the game loop goes here...
 
-        //drawing_window.render_frame();
+        drawing_window.render_frame();
         ::std::thread::sleep(Duration::new(0, 1_000_000_000u32 / 60));
     }
    
